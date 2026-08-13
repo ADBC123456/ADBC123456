@@ -1,0 +1,19 @@
+{
+  "display_name": "brave",
+  "title": "AI Developer / Machine Vision Engineer",
+  "current_quest": "Build something useful",
+  "skills": {
+    "Python": 90,
+    "AI / ML": 80,
+    "Computer Vision": 75,
+    "PLC / Automation": 90,
+    "Docker": 65,
+    "C++": 60
+  },
+  "status": {
+    "AI": "TRAINING",
+    "VISION": "ACTIVE",
+    "AUTOMATION": "RUNNING",
+    "OPEN SOURCE": "BUILDING"
+  }
+}
