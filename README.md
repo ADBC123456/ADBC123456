@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://raw.githubusercontent.com/ADBC123456/ADBC123456/refs/heads/output/github-snake.svg)
 <!--
 **ADBC123456/ADBC123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
