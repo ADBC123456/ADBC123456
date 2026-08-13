@@ -1,5 +1,4 @@
 name: GitHub Snk Readme Workflow
-
 on:
   schedule:
     - cron: "0 0 * * *"
